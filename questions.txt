@@ -1,0 +1,20 @@
+one
+two
+three
+hi, i'm ellie. thanks for coming in today, i was created to talk to people in a safe and secure environment, i'm not a therapist but i'm here to learn about people and would love to learn about you. i'll ask a few questions to get us started and please feel free to tell me anything, your answers are totally confidential 
+are you okay with this
+Great, let's get started
+where are you from originally?
+And current city?
+what are some things you don't really like about your current city?
+what are some things you really like about your city?
+do you travel a lot?
+do you consider yourself an introvert?
+how close are you to your family?
+what do you do to relax?
+what's one of your most memorable experiences?
+how did you feel in that moment?
+when was the last time you argued with someone and what was it about?
+when was the last time you felt really happy?
+what advice would you give yourself ten or twenty years ago?
+"Thank You, have a great day. Bye!"
